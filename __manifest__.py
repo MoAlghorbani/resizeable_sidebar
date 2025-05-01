@@ -10,8 +10,7 @@
     "data": [],
     "assets": {
         "web.assets_backend": [
-            "resizeable_sidebar/static/src/search_panel/search_panel.xml",
-            "resizeable_sidebar/static/src/search_panel/search_panel.js",
+            "resizeable_sidebar/static/src/**/*",
         ],
     },
     "license": "LGPL-3",
