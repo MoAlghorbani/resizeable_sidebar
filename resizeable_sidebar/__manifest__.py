@@ -17,6 +17,7 @@ This module allows users to resize the sidebar by dragging its edge. The chosen 
             'resizeable_sidebar/static/src/**/*',
         ],
     },
+    'images': ['static/description/banner.png'],
     'installable': True,
     'application': False,
     'auto_install': False,
