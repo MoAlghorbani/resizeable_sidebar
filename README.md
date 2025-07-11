@@ -1,1 +1,1 @@
-Resizeable searchpanel for odoo
+resizeable searchpanel for odoo
