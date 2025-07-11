@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
     'name': 'Resizable Sidebar',
-    'version': '17.0.1.0.0',
+    'version': '18.0.1.0.0',
     'summary': 'Allows users to resize the sidebar in Odoo.',
     'sequence': 10,
     'description': """
